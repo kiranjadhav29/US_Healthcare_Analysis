@@ -11,10 +11,10 @@ This project analyzes US healthcare data to understand:
 
 The analysis is performed using **Power BI** for visualization and **DAX** for advanced calculations, with data modeling in **Star Schema** architecture.
 
-![Executive Summary](images/executive_summary.png)
-![Hospital Insights](images/hospital_insights.png)
-![Patient Analysis](images/patient_analysis.png)
-![Payer Provider Analysis](images/payer_provider_analysis.png)
+<img width="1125" height="748" alt="Executive-Summary" src="https://github.com/user-attachments/assets/7fcb9d0e-231c-4b5c-bf79-d8e0c2122d4d" />
+<img width="1122" height="752" alt="Hospital-Analysis" src="https://github.com/user-attachments/assets/a2a3e756-0654-4e75-aff8-1934e3812c77" />
+<img width="1122" height="748" alt="Patient-Analysis" src="https://github.com/user-attachments/assets/f7574551-4fd5-444f-b8d5-bd78617adc8e" />
+![Uploading Payer-Provider-Analysis.png…]()
 
 ---
 
